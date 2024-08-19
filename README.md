@@ -154,5 +154,17 @@ Importance of prompt engineering:
 4. _Better understanding of AI capabilities_: Prompt engineering helps developers and users understand the strengths and limitations of AI models.
 5. _Adaptability to new AI models_: Prompt engineering skills are transferable across different AI models and applications.
 
+A vague prompt is an input or question that lacks clarity, specificity, or context, making it difficult for an AI model to understand and provide a relevant response.
 
+*Vague Prompt Example:*
+
+"What can you tell me about AI?"
+
+This prompt is too broad and open-ended, making it challenging for the AI model to provide a concise and relevant response.
+
+*Corrected Precise Prompt:*
+
+"Explain the differences between supervised and unsupervised machine learning approaches in AI, including examples of each."
+
+This revised prompt is more specific, clear, and concise, providing the AI model with a well-defined topic and context to generate a accurate and informative response.
 
